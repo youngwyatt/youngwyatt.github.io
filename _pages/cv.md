@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-# Wyatt MJ Young (He/Him/His)
-
 📧 young.wyatt@utah.edu  
-🔗 [LinkedIn](#) | [Website](#) | [GitHub](#)
+
 ---
 
 ## Interests

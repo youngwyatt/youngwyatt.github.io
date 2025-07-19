@@ -7,18 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
----
-layout: cv
-title: "CV"
-permalink: /cv/
----
-
 # Wyatt MJ Young (He/Him/His)
 
 📧 young.wyatt@utah.edu  
 🔗 [LinkedIn](#) | [Website](#) | [GitHub](#)
-
 ---
 
 ## Interests

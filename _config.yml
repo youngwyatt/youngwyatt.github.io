@@ -22,7 +22,7 @@ repository               : "youngwyatt/youngwyatt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pfp_wy_circle.png"
   name             : "Wyatt Young"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to my website! Here you can find my research, projects, and links to my academic profiles and socials. Thanks for visiting!"
